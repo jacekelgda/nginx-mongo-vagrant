@@ -1,0 +1,3 @@
+Vagrantfile                    Vagrantfile
+docker/images/mongo/Dockerfile docker/images/mongo/Dockerfile
+logs/.gitkeep                  logs/.gitkeep
