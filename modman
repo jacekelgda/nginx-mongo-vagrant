@@ -1,3 +1,4 @@
 Vagrantfile                    Vagrantfile
 docker/images/mongo/Dockerfile docker/images/mongo/Dockerfile
+docker/images/nginx/Dockerfile Dockerfile.TEMPLATE
 logs/.gitkeep                  logs/.gitkeep
