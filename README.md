@@ -1,0 +1,1 @@
+# nginx-mongo-vagrant
